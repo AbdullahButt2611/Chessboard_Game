@@ -106,6 +106,7 @@ Follwing technologies have been used at the core of this application to make it 
 ### Advancement
 
 > Player can use their turn to move other than the specified values. This needs to be corrected.
+> The Game is not responsive yet
 
 <br><br>
 <!-- ................................................................................................................................. -->
